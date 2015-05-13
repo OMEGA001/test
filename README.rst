@@ -12,6 +12,8 @@
 
     $test
 
+てすとAAA
+
 ::
 
     $call
